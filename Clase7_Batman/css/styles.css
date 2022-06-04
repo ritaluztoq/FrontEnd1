@@ -1,0 +1,60 @@
+.text-center {
+  text-align: center;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.background-gray {
+  background-color: #c4c4c4;
+}
+
+.text-blue {
+  color: #005677;
+}
+
+.text-white {
+  color: white;
+}
+
+.background-lightgray {
+  background-color: #e6e6e6;
+}
+
+.text-bold {
+  font-weight: 700;
+}
+
+.background-blue {
+  background-color: #005677;
+}
+
+.letter-spacing-4px {
+  letter-spacing: 4px;
+}
+
+.pa-2 {
+  padding: 8px;
+}
+
+.text-decoration-none {
+  text-decoration: none;
+}
+
+.mx-2 {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.mt-n5 {
+  margin-top: -20px;
+}
+
+.ml-20 {
+  margin-left: 80px;
+}
+
+.text-italic {
+  font-style: italic;
+}
